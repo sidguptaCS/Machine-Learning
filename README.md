@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-Welcome! This repository serves as a collection of machine learning projects spanning both traditional ML and Generative AI.
+Welcome! This repository serves as a collection of machine learning projects spanning traditional ml.
 
 ## Objectives
 This repository is designed to explore, implement, and evaluate machine learning systems across a variety of real-world applications. Projects emphasize:
@@ -31,27 +31,13 @@ Common algorithms include:
 - Support Vector Machines
 - Neural Networks
 
-### Generative AI
-Projects focused on creating intelligent systems capable of generating content, including:
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Text Generation
-- Image Generation
-- Prompt Engineering
-- Fine-Tuning and Evaluation
-
 ## Tech Stack
 
 - Python
 - Pandas
 - NumPy
+- Matplotlib
 - Scikit-learn
-- TensorFlow / PyTorch
-- Hugging Face Transformers
-- LangChain / LlamaIndex
-- OpenAI APIs
 
 ## Repository Structure
 
@@ -60,9 +46,3 @@ traditional-ml/
 ├── classification/
 ├── regression/
 ├── clustering/
-
-genai/
-├── llms/
-├── rag/
-├── agents/
-├── fine-tuning/
